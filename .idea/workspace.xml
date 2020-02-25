@@ -83,6 +83,7 @@
       <updated>1579893397245</updated>
       <workItem from="1579893398999" duration="640000" />
       <workItem from="1579894054735" duration="3760000" />
+      <workItem from="1579960646599" duration="137000" />
     </task>
     <servers />
   </component>
@@ -110,5 +111,9 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="2517" height="413" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1579896978533" />
+    <state x="977" y="546" key="com.intellij.ide.util.TipDialog" timestamp="1579960782838">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="977" y="546" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1579960782838" />
   </component>
 </project>
